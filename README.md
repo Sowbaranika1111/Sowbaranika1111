@@ -1,5 +1,5 @@
 Hai! , I am Sowbaranika currently pursuing BE CSE fourth year.A curious person , interested in learning and implementing technologies . I am interested in Web development and App development . I like to be persistent and perfect in the work I do. I don't like wasting time and like reading books.Looking for opportunities for learning and implementing technologies .I always love to enhance my wisdom and knowledge .
-<h1 align="center">### Hi there 👋, I'm Sowbaranika</h1>
+<h1 align="center"> Hi there 👋, I'm Sowbaranika</h1>
 <h3 align="center">Web developer , Coder</h3>
 <img align="right" alt = "Coding" width="500" src="https://www.shutterstock.com/image-vector/cute-cat-hacker-operating-laptop-600nw-2235950657.jpg">
 
