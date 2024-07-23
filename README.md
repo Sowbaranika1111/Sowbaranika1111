@@ -97,15 +97,32 @@
   </tr>
 </table>
 
+...
+
+## 🏆 GitHub Achievements
+
+<p align="left">
+  <img src="path_to_pull_shark_image.png" alt="Pull Shark x2" width="60" height="60"/>
+  <img src="path_to_yolo_image.png" alt="YOLO" width="60" height="60"/>
+</p>
+
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowbaranika1111&show_icons=true&locale=en&layout=compact&langs_count=6" alt="sowbaranika1111" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sowbaranika1111&show_icons=true&locale=en&hide=stars,issues&include_all_commits=true&count_private=true" alt="sowbaranika1111" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowbaranika1111" alt="sowbaranika1111" />
+</p>
+
 ---
 
 <p align="center">
   <i>Let's connect and create something amazing together!</i>
 </p>
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowbaranika1111&show_icons=true&locale=en&layout=compact" alt="sowbaranika1111" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowbaranika1111&show_icons=true&locale=en&hide=stars,issues" alt="sowbaranika1111" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowbaranika1111&" alt="sowbaranika1111" /></p>
