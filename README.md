@@ -1,5 +1,5 @@
 <div style="position: relative; width: 100%; height: 150px; overflow: hidden;">
-  <img src="https://github.com/Sowbaranika1111/Sowbaranika1111/blob/main/header_img.webp" alt="Background" style="width: 100%; object-fit: cover; object-position: center top;">
+  <img src="https://raw.githubusercontent.com/Sowbaranika1111/Sowbaranika1111/main/header2_img.webp" alt="Background" style="width: 100%; object-fit: cover; object-position: center top;">
   <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(0,0,0,0.4);"></div>
   <div style="position: absolute; top: 10px; left: 0; right: 0; text-align: center; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);">
     <h1 style="font-size: 2.2em; margin-bottom: 5px;">Hi 👋, I'm Sowbaranika</h1>
