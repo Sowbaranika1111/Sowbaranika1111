@@ -97,29 +97,16 @@
   </tr>
 </table>
 
-...
-
-## 🏆 GitHub Achievements
-
-<p align="left">
-  <img src="path_to_pull_shark_image.png" alt="Pull Shark x2" width="60" height="60"/>
-  <img src="path_to_yolo_image.png" alt="YOLO" width="60" height="60"/>
-</p>
-
-
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowbaranika1111&show_icons=true&locale=en&layout=compact&langs_count=6" alt="sowbaranika1111" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=sowbaranika1111&show_icons=true&locale=en&hide=stars,issues&theme=radical&border_radius=10" alt="sowbaranika1111's GitHub Stats" style="border: 1px solid #70a5fd;" />
+  <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=sowbaranika1111&theme=radical&border_radius=10" alt="sowbaranika1111's GitHub Streak" style="border: 1px solid #70a5fd;" />
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sowbaranika1111&show_icons=true&locale=en&hide=stars,issues&include_all_commits=true&count_private=true" alt="sowbaranika1111" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowbaranika1111" alt="sowbaranika1111" />
-</p>
+<div align="center" style="margin-top: 20px;">
+  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowbaranika1111&show_icons=true&locale=en&layout=compact&langs_count=6&theme=radical&border_radius=10" alt="sowbaranika1111's Top Languages" style="border: 1px solid #70a5fd;" />
+</div>
 
 ---
 
