@@ -7,7 +7,6 @@
   </div>
 </div>
 
-
 ## About Me
 </div>
 
