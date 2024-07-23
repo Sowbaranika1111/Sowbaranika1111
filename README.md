@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/Sowbaranika1111/Sowbaranika1111/main/header_img.webp" alt="Background" style="width: 100%; object-fit: cover; object-position: center top;">
   <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(0,0,0,0.4);"></div>
   <div style="position: absolute; top: 10px; left: 0; right: 0; text-align: center; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);">
-    <h1 style="font-size: 2.2em; margin-bottom: 5px;">Hi 👋, I'm Sowbaranika</h1>
-    <h3 style="font-size: 1.2em;">A passionate Mobile App developer and Web App Developer from India</h3>
   </div>
 </div>
 
@@ -15,8 +13,8 @@
     <td>
       <ul>
         <li>🔭 I'm currently working on <a href="https://github.com/Sowbaranika1111/Experiences-Project-2">Experiences Project</a></li>
-        <li>🌱 I'm currently using <strong>Flutter, React</strong></li>
-        <li>🚀 I'm updating myself with Flutter and ReactJS</li>
+        <li>🌱 Currently using <strong>Flutter, React</strong></li>
+        <li>🚀 Updating myself with Flutter and ReactJS</li>
         <li>📫 How to reach me: <a href="mailto:sowbika002@gmail.com">sowbika002@gmail.com</a></li>
         <li>📄 Know about my experiences: <em>[Your resume link here]</em></li>
         <li>🧘‍♀️ Actively volunteering in Buddha CEO Quantum Foundation</li>
@@ -28,16 +26,18 @@
   </tr>
 </table>
 
+---
+
 <div align="center">
 
-## Connect with Me
+<h2> Connect with Me </h2>
 
 <p>
   <a href="https://linkedin.com/in/sowbaranika1111" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowbaranika1111" height="30" width="40" />
-  </a>
+  </a> 
   <a href="https://www.hackerrank.com/sowbaranika1111" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sowbaranika1111" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sowbaranika1111" height="40" width="50" />
   </a>
 </p>
 
