@@ -1,33 +1,49 @@
 <h1 align="center">Hi 👋, I'm Sowbaranika</h1>
 <h3 align="center">A passionate Mobile App developer and Web App Developer from India</h3>
 
+<div align="center">
 
-- 🔭 I’m currently working on [[Experiences Project](https://github.com/Sowbaranika1111/Experiences-Project-2)]
+## About Me
 
-- 🌱 I’m currently using **Flutter, React**
+</div>
 
-- Im updating myself with Flutter , ReactJS
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I'm currently working on <a href="https://github.com/Sowbaranika1111/Experiences-Project-2">Experiences Project</a></li>
+        <li>🌱 I'm currently using <strong>Flutter, React</strong></li>
+        <li>🚀 I'm updating myself with Flutter and ReactJS</li>
+        <li>📫 How to reach me: <a href="mailto:sowbika002@gmail.com">sowbika002@gmail.com</a></li>
+        <li>📄 Know about my experiences: <em>[Your resume link here]</em></li>
+        <li>🧘‍♀️ Actively volunteering in Buddha CEO Quantum Foundation</li>
+        <li>🌬️ Practicing Breath Mindfulness meditation for past 3 years</li>
+        <li>🧠 Having a learning mindset, I only see lessons from mistakes</li>
+        <li>📚 Constantly updating myself with knowledge from great masters</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- 📫 How to reach me **sowbika002@gmail.com**
+<div align="center">
 
-- 📄 Know about my experiences [<>](<>)
+## Connect with Me
 
-- I am actively volunteering in Buddha CEO Quantum Foundation
+<p>
+  <a href="https://linkedin.com/in/sowbaranika1111" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowbaranika1111" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/sowbaranika1111" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sowbaranika1111" height="30" width="40" />
+  </a>
+</p>
 
-- Practicing Breath Mindfulness meditation for past 3 years
+</div>
 
-- Having a learning mindset , I'll only see the lesson from the mistakes
+---
 
-- Updating myself with the knowledge of all great masters always
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/sowbaranika1111" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sowbaranika1111" height="30" width="40" />
-    </a>
-    <a href="https://www.hackerrank.com/sowbaranika1111" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sowbaranika1111" height="30" width="40" />
-    </a>
+<p align="center">
+  <i>Let's connect and create something amazing together!</i>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
