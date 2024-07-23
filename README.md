@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sowbaranika</h1>
 <h3 align="center">A passionate Mobile App developer and Web App Developer from India</h3>
 
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=sowbaranika1111&no-bg=true&no-frame=true&column=3&row=1&theme=juicyfresh&rank=SECRET,SSS,SS,S" alt="sowbaranika1111" />
-    </a> 
-</p>
 
 - 🔭 I’m currently working on [Experiences](<>)
 
