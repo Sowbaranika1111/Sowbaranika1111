@@ -2,17 +2,23 @@
 <h3 align="center">A passionate Mobile App developer and Web App Developer from India</h3>
 
 
-- 🔭 I’m currently working on [Experiences](<>)
+- 🔭 I’m currently working on [[Experiences Project](https://github.com/Sowbaranika1111/Experiences-Project-2)]
 
-- 🌱 I’m currently learning **Flutter, React**
+- 🌱 I’m currently using **Flutter, React**
 
-- 🤝 I’m looking for help with **Experienc**
-
-- 💬 Ask me about **Dart, Python**
+- Im updating myself with Flutter , ReactJS
 
 - 📫 How to reach me **sowbika002@gmail.com**
 
 - 📄 Know about my experiences [<>](<>)
+
+- I am actively volunteering in Buddha CEO Quantum Foundation
+
+- Practicing Breath Mindfulness meditation for past 3 years
+
+- Having a learning mindset , I'll only see the lesson from the mistakes
+
+- Updating myself with the knowledge of all great masters always
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
