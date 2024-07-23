@@ -97,15 +97,18 @@
   </tr>
 </table>
 
+---
+
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=sowbaranika1111&show_icons=true&locale=en&hide=stars,issues&theme=radical&border_radius=10" alt="sowbaranika1111's GitHub Stats" style="border: 1px solid #70a5fd;" />
-  <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=sowbaranika1111&theme=radical&border_radius=10" alt="sowbaranika1111's GitHub Streak" style="border: 1px solid #70a5fd;" />
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sowbaranika1111&show_icons=true&theme=radical&hide=stars,issues&border_radius=10&hide_border=true" alt="sowbaranika1111's GitHub Stats" />
+  &nbsp; <!-- Add space between cards -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sowbaranika1111&theme=radical&border_radius=10&hide_border=true" alt="sowbaranika1111's GitHub Streak" />
 </div>
-
-<div align="center" style="margin-top: 20px;">
-  <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowbaranika1111&show_icons=true&locale=en&layout=compact&langs_count=6&theme=radical&border_radius=10" alt="sowbaranika1111's Top Languages" style="border: 1px solid #70a5fd;" />
+<br/> <!-- Add vertical space -->
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowbaranika1111&show_icons=true&locale=en&layout=compact&theme=radical&border_radius=10&hide_border=true&langs_count=6" alt="sowbaranika1111's Top Languages" />
 </div>
 
 ---
