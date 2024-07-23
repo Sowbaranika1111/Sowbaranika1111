@@ -1,10 +1,9 @@
-<div align="center">
-  <div style="position: relative; width: 100%; height: 200px; overflow: hidden;"> <!-- Reduced height -->
-    <img src="https://github.com/Sowbaranika1111/Sowbaranika1111/blob/main/header_img.webp" alt="Background" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
-    <div style="position: absolute; top: 10%; left: 50%; transform: translate(-50%, -10%); text-align: center; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);">
-      <h1 style="font-size: 2.5em; margin-bottom: 10px;">Hi 👋, I'm Sowbaranika</h1> <!-- Adjusted font-size -->
-      <h3 style="font-size: 1.5em;">A passionate Mobile App developer and Web App Developer from India</h3>
-    </div>
+<div style="position: relative; width: 100%; height: 150px; overflow: hidden;">
+  <img src="https://github.com/Sowbaranika1111/Sowbaranika1111/blob/main/header_img.webp" alt="Background" style="width: 100%; object-fit: cover; object-position: center top;">
+  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(0,0,0,0.4);"></div>
+  <div style="position: absolute; top: 10px; left: 0; right: 0; text-align: center; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);">
+    <h1 style="font-size: 2.2em; margin-bottom: 5px;">Hi 👋, I'm Sowbaranika</h1>
+    <h3 style="font-size: 1.2em;">A passionate Mobile App developer and Web App Developer from India</h3>
   </div>
 </div>
 
