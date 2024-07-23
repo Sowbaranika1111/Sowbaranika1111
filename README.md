@@ -1,9 +1,9 @@
-Hai! , I am Sowbaranika currently pursuing BE CSE fourth year.A curious person , interested in learning and implementing technologies . I am interested in Back-end development , App development and Tool development. I like to be persistent and perfect in the work I do. I don't like wasting time and like reading books.Looking for opportunities for learning and implementing technologies .I always love to enhance my wisdom and knowledge .
+Hai! , I am Sowbaranika , a fresher with the BE CSE . I do App development and Web App development .  . I like to be persistent and perfect in the work I do. I don't like wasting time and like reading books. .A curious person , interested in learning and implementing technologies .Looking for opportunities .I always love to enhance my wisdom and knowledge . I love doing volunteer work . I am volunteering in Buddha_CEO Quantum Foundation. 
 <h1 align="center"> Hi there 👋, I'm Sowbaranika</h1>
-<h3 align="center">Back-end developer , Coder</h3>
+<h3 align="center">App developer , Web App developer</h3>
 <img align="right" alt = "Coding" width="500" src="https://www.shutterstock.com/image-vector/cute-cat-hacker-operating-laptop-600nw-2235950657.jpg">
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I do **App Development**
 
 - 📫 How to reach me **sowbika002@gmail.com**
 
