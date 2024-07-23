@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sowbaranika</h1>
-<h3 align="center">A passionate Mobile App developer and Web App Developer from India</h3>
-
 <div align="center">
+  <div style="position: relative; width: 100%; height: 200px; overflow: hidden;"> <!-- Reduced height -->
+    <img src="https://raw.githubusercontent.com/Sowbaranika1111/Sowbaranika1111/main/robot-hand-touching-human-hand-with-a-spark-in-between.webp" alt="Background" style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
+    <div style="position: absolute; top: 10%; left: 50%; transform: translate(-50%, -10%); text-align: center; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);">
+      <h1 style="font-size: 2.5em; margin-bottom: 10px;">Hi 👋, I'm Sowbaranika</h1> <!-- Adjusted font-size -->
+      <h3 style="font-size: 1.5em;">A passionate Mobile App developer and Web App Developer from India</h3>
+    </div>
+  </div>
+</div>
+
 
 ## About Me
-
 </div>
 
 <table align="center">
