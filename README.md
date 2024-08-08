@@ -14,7 +14,7 @@
                 <li>🌱 Currently using <strong>Flutter, React</strong></li>
                 <li>🚀 Updating myself with Flutter and ReactJS</li>
                 <li>📫 How to reach me: <a href="mailto:sowbika002@gmail.com">sowbika002@gmail.com</a></li>
-                <li>📄 Know about my experiences: <em>[here](https://github.com/yourusername/yourrepository/raw/main/resume.pdf).</em></li>
+                <li>📄 View my Resume <em><a href="https://github.com/Sowbaranika1111/Certificates/blob/main/SowbaranikaResume09082024.pdf" style="display: none;">here</a></em></li>
                 <li>🧘‍♀️ Actively volunteering in Buddha CEO Quantum Foundation</li>
                 <li>🌬️ Practicing Breath Mindfulness meditation for past 3 years</li>
                 <li>🧠 Having a learning mindset, I only see lessons from mistakes</li>
