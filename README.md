@@ -13,8 +13,8 @@
                 <li>🔭 I'm currently  using <strong>Flutter, React</strong> </a></li>
                 <li>🌱 Currently updating me with SAP ABAP, SAP Fiori, and SAP UI5</li>
                 <li>📫 How to reach me: <a href="mailto:sowbaranikag@gmail.com">sowbaranikag@gmail.com</a></li>
-                <li>📄 View my Resume <em><a href="https://github.com/Sowbaranika1111/Certificates/blob/main/SowbaranikaResume17082024.pdf" style="display: none;">here</a></em></li>
-                <li>🧘‍♀️ Actively volunteering in Buddha CEO Quantum Foundation</li>
+                <li>📄 View my Resume <em><a href="https://github.com/Sowbaranika1111/Certificates/blob/main/SowbaranikaResume17082024.pdf">here</a></em></li>
+                <li>🧘‍♀️ Actively volunteering in<a href="https://www.buddhaceo.org/"> Buddha CEO Quantum Foundation </a></li>
                 <li>🌬️ Practicing Breath Mindfulness meditation for past 3 years</li>
                 <li>🧠 Having a learning mindset, I only see lessons from mistakes</li>
                 <li>📚 Constantly updating myself with knowledge from great masters</li>
