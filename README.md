@@ -10,11 +10,10 @@
     <tr>
         <td>
             <ul>
-                <li>🔭 I'm currently working on <a href="https://github.com/Sowbaranika1111/Experiences-Project-2">Experiences Project</a></li>
-                <li>🌱 Currently using <strong>Flutter, React</strong></li>
-                <li>🚀 Updating myself with Flutter and ReactJS</li>
+                <li>🔭 I'm currently  using <strong>Flutter, React</strong> </a></li>
+                <li>🌱 Currently updating me with **SAP ABAP**, **SAP Fiori**, and **SAP UI5**</li>
                 <li>📫 How to reach me: <a href="mailto:sowbika002@gmail.com">sowbika002@gmail.com</a></li>
-                <li>📄 View my Resume <em><a href="https://github.com/Sowbaranika1111/Certificates/blob/main/SowbaranikaResume09082024.pdf" style="display: none;">here</a></em></li>
+                <li>📄 View my Resume <em><a href="https://github.com/Sowbaranika1111/Certificates/blob/main/SowbaranikaResume17082024.pdf" style="display: none;">here</a></em></li>
                 <li>🧘‍♀️ Actively volunteering in Buddha CEO Quantum Foundation</li>
                 <li>🌬️ Practicing Breath Mindfulness meditation for past 3 years</li>
                 <li>🧠 Having a learning mindset, I only see lessons from mistakes</li>
