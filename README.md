@@ -10,13 +10,13 @@
     <tr>
         <td>
             <ul>
-                <li>🔭 I'm currently  using <strong>Flutter, React</strong> </a></li>
+<!--                 <li>🔭 I'm currently  using <strong>Flutter, React</strong> </a></li>
                 <li>📫 How to reach me: <a href="mailto:sowbika002@gmail.com">send mail</a></li>
                 <li>📄 View my Resume <em><a href="https://github.com/Sowbaranika1111/Certificates/blob/main/SowbaranikaResume29082024.pdf">here</a></em></li>
                 <li>🧘‍♀️ Actively volunteering in<a href="https://www.buddhaceo.org/"> Buddha CEO Quantum Foundation </a></li>
                 <li>🌬️ Practicing Breath Mindfulness meditation for past 3 years</li>
                 <li>🧠 Having a learning mindset, I only see lessons from mistakes</li>
-                <li>📚 Constantly updating myself with knowledge from great masters</li>
+                <li>📚 Constantly updating myself with knowledge from great masters</li> -->
             </ul>
         </td>
     </tr>
